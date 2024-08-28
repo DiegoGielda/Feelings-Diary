@@ -14,10 +14,6 @@ The goal is to help professional psychologists identify/discover how the client 
 - **Psicólogo:** Includes several reports demonstrating customer sentiments.
 - **Customer:** Has access to the release of new notes on a daily basis. Release notes through audios. Totally anonymous.
 
-## Clippings
-
-Please note that this project is intended for demonstration.
-
 ## Installation
 
 To get started with the project:
@@ -68,6 +64,11 @@ Project Mobile:
     # or
     yarn start
     ```    
+## Clippings
+
+<img src="https://github.com/DiegoGielda/Feelings-Diary/blob/develop/Showcase/home.jpeg" alt="home" width=480 />
+<img src="https://github.com/DiegoGielda/Feelings-Diary/blob/develop/Showcase/customer.jpeg" alt="customer" width=480 />
+<img src="https://github.com/DiegoGielda/Feelings-Diary/blob/develop/Showcase/psychologist.jpeg" alt="psychologist" width=480 />
 
 ## Contributing
 
